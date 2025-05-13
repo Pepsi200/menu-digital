@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Promo Burger",
+        "category": "promos",
+        "description": "Hamburguesa doble con queso, papas fritas",
+        "image": "promo-burguer.jpeg",
+        "price": "15.000"
+    },
+    {
+        "name": "Promo de sandwich de milanesa",
+        "category": "promos",
+        "description": "2 sandwich milanesas con papas fritas por un precio especial",
+        "image": "promo-de-milanesas.jpeg",
+        "price": "19.000"
+    }
+]
